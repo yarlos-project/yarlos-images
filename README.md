@@ -32,3 +32,9 @@ sudo cp -r icons/* /usr/share/icons/
 The "YarlOS" name and logo are part of the project's identity and may not be used for redistribution, branding, or derivative distributions without permission.
 
 Use of these assets must not imply endorsement or official affiliation with the YarlOS Project.
+
+### License
+
+Licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+See the LICENSE file for details.
+![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)
