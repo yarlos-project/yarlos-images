@@ -25,10 +25,10 @@ To ensure icons are recognized by the system UI, install them into the standard 
 git clone https://github.com/yarlos-project/yarlos-images.git
 cd yarlos-images
 sudo cp -r icons/* /usr/share/icons/
+```
 
 ### Branding Notice
 
 The "YarlOS" name and logo are part of the project's identity and may not be used for redistribution, branding, or derivative distributions without permission.
 
 Use of these assets must not imply endorsement or official affiliation with the YarlOS Project.
-```
